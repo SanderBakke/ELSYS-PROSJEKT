@@ -39,40 +39,33 @@ for å lime inn i terminal høyreklikker du og velger "paste", Ctrl+C brukes for
 Da skal du ha alle filene lokalt på egen PC.
 
 Hvis det har blitt lagt til flere filer på giten som du ikke har i mappen din får du de enkelt med følgende kommando i Git Bash (Åpne Git Bash i respektiv mappe, likt som forklart over)
-
-'''
+```
 git pull
-'''
+```
 
 **Laste opp til git**
 For å laste opp filer til giten må du bruke følgende kommandoer:
-
-'''
+```
 git add .
-'''
-
-'''
+```
+```
 git commit -m "meldingen du vil skrive til endringene du har gjort"
-'''
-
-'''
+```
+```
 git push
-'''
+```
 
 
 **Når du vil fjerne endringer du har gjort lokalt på din PC**
-
-'''
+```
 git stash
-'''
-
-'''
+```
+```
 git config user.name <brukernavn>
-'''
-  
-'''
+```
+```
 git config user.email <email>
-'''
+```
 
 # Git GUI
 Kan også brukes til å klone 

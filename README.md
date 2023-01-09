@@ -68,5 +68,6 @@ git config user.email <email>
 ```
 
 # Git GUI
-Kan også brukes til å klone 
+Kan også brukes til å klone
+Kan sikkert skrive en kortet ned versjon senere, men denne nettsiden forklarer ganske greit hvordan Git GUI brukes
 

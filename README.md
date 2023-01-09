@@ -7,7 +7,16 @@ Denne siden her er fin hvis det er noe du lurer på som kanskje ikke står under
 
 [Intro til git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud "Google's Homepage")
 
+Kan anbefales å lese denne uansett egentlig, f.eks. om du plutselig kjeder deg en lørdagskveld...
+
 ## Hvilke verktøy "trenger" vi?
 Egentlig kan man kjøre alt av git-kommandoer fra terminal (enten direkte på PC eller i VS Code eller en hvilken som helst annen terminal). Men av egen erfaring kan det være like greit, kanskje litt lettere i starten også, å bruke programmer som er laget for akkurat det her. Under her er en link til skrivebordsprogrammer som skal gjøre det enklere for oss å gjøre endringer på giten:
 
 [Git verktøy](https://git-scm.com/downloads)
+
+Da får du en pakke med et par programmer som kan brukes
+
+# Git BASH
+Er vel egentlig bare en egen Git-terminal?
+
+git 

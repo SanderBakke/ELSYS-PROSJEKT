@@ -2,7 +2,8 @@
 Hei gruppe 10!
 Under her kommer jeg til å legge inn en liten introduksjon til hvordan git kan brukes, så får vi se om det er tilstrekkelig...
 Vi får ta en liten felles gjennomgang fortløpende, så blir dette gull:)
-Informasjonen merker jeg skriver nå kanskje blir litt kaotisk, men prøver med det jeg husker og finner av informasjon
+Informasjonen merker jeg skriver nå kanskje blir litt kaotisk, men prøver med det jeg husker og finner av informasjon.
+Dette er bare en start, så får vi se hvor mye mer som trenges fortløpende bare:)
 
 Denne siden her er fin hvis det er noe du lurer på som kanskje ikke står under:
 

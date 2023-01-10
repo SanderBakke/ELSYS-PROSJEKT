@@ -72,3 +72,5 @@ git config user.email <email>
 Kan også brukes til å klone
 Kan sikkert skrive en kortet ned versjon senere, men denne nettsiden forklarer ganske greit hvordan Git GUI brukes
 
+[Git GUI](https://www.geeksforgeeks.org/working-on-git-for-gui/)
+

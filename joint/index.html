@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Start Page</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+      }      
+      .button-wrapper {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      
+      .button-wrapper button {
+        display: block;
+        margin: 15px 0;
+        width: 200px;
+        height: 50px;
+        /* border: none; */
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        color: #fff;
+        cursor: pointer;
+      }
+      
+      .graph-button {
+        background-color: #539bf4;
+        border-color: #8a65e1;
+      }
+      .graph-button:hover{
+        background: #2583f6;
+      }
+      
+      .video-button {
+        background-color: #e165c0;
+        border-color: #f75ff7;
+      }
+      .video-button:hover {
+      background:#9e4085;
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="img.jpg">
+    <img src="img.jpg">
+    <img src="img.jpg">
+    <img src="img.jpg">
+    <div class="button-wrapper">
+      <button id="graph-button" class="graph-button" onclick="location.href='graph.html'">Graph</button>
+      <button id="video-button" class="video-button" onclick="location.href='video.html'">Video</button>
+    </div>
+  </body>
+</html>

@@ -16,15 +16,9 @@ import threading
 from threading import Thread, Condition
 from multiprocessing import Process
 from utils import server_ip, detect_pi, warning
-from flask import Flask, render_template
 import subprocess
 
 
-app = Flask(__name__)
-
-@app.route('/index.html')
-def index():
-  return render_template('index.html')
 
 
 if detect_pi():
